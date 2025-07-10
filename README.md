@@ -13,3 +13,6 @@ Recommended order:
 How to use:
 - Submit batch jobs for each variable separately over a long period of time, use .py scripts.
 - To get a quick look at the process, use a smaller subset of data, and view detailed breakdown of code, use the .ipynb files. 
+
+Post-processing
+- in post processing folder, find vector projections for maintenance and propagation, showing budget closure
